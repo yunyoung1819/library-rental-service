@@ -41,3 +41,4 @@ out
 gen
 .mvn
 build
+.DS_Store
