@@ -16,6 +16,11 @@
 
     <dependencies>
         <!-- 루트 모듈에서 관리되는 의존성은 추가할 필요 없음 -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <scope>provided</scope>
+        </dependency>
     </dependencies>
 
     <build>
