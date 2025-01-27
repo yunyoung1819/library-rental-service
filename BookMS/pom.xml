@@ -9,7 +9,7 @@
        <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.msa</groupId>
-    <artifactId>Book</artifactId>
+    <artifactId>BookMS</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Book</name>
     <description>Book</description>
